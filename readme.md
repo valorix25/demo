@@ -1,5 +1,3 @@
 Hello, World!
 
-Retrograde life
-demo
-
+Just do it!
